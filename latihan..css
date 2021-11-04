@@ -1,0 +1,66 @@
+h2{
+    background-color: coral;
+    color: darkcyan;
+}
+#sobri{
+    color: darkgoldenrod;
+}
+.klas{
+    border: 2px solid darkgreen;
+    border-radius: 10px;
+}
+.latihan{
+    color: aqua;
+    text-align: center;
+    background-color: burlywood;
+}
+body{
+    /* background: linear-gradient(magenta,mediumaquamarine) */
+    background-image: url(./images.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.table{
+    background-color: mediumpurple;
+}
+#gambar{
+    height: 100px;
+    width: 100px;
+    padding: 10px 7px 2px;
+}
+#kesukaan{
+    width: 200px;
+}
+#hobi{
+    width: 30vh;
+}
+.tabel{
+    border-spacing: 0px;
+    border-radius: 10px;
+    border-color: mediumvioletred;
+    display: inline-block;
+
+}
+.abc{
+    margin-top: 10px;
+    margin-bottom: 50px;
+    border: 2px solid rgb(175, 29, 243);
+    border-radius: 5px;
+    text-align: center;
+}
+.abc:hover{
+    background-color: teal;
+}
+.margin-kiri{
+    margin-left: 20px;
+}
+img{
+    border-radius: 15px;
+}
+.font{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+}
+.link{
+    text-decoration: none;
+}
